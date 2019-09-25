@@ -1,6 +1,6 @@
 # About Me
 
-![Picture of me](https://i.kym-cdn.com/entries/icons/original/000/005/517/party-cat-party-time.jpg)
+![Picture of me]Picture of Me(https://i.kym-cdn.com/entries/icons/original/000/005/517/party-cat-party-time.jpg)
 
 Hi, I'm Ashley. I'm a product manager at *USDS*.
 
