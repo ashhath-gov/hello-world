@@ -2,8 +2,13 @@
 
 ![Picture of me]()
 
-Hi, I'm ____________. I'm a ________ at *__________*.
+Hi, I'm Ashley. I'm a product manager at *USDS*.
 
 - **Past Companies and Organizations:**
+  - Pivotal
+  - IBM
 - **Hobbies:**
-- **Favorite Website:** []()
+  - Hiking
+  - Mega foodie
+- **Favorite Website:** 
+ []()
